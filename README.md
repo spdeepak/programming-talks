@@ -461,6 +461,7 @@ ever.
 * [The Two Cultures of Programming](https://www.youtube.com/watch?v=C3iR_PknlFc) [00:29:40] by **Joshua Ballanco** (2016)
 * [Machine Code](https://www.youtube.com/watch?v=ErGi9sNgUjw) [00:38:11] by **Jameson Nash** (2016)
 * [Introduction to Writing High Performance Julia (Workshop)](https://www.youtube.com/watch?v=szE4txAD8mk) [02:48:30] by **Arch D. Robison** (2016)
+* [Julia as a platform for language development](https://www.youtube.com/watch?v=BBUrQId0HhQ) [00:28:20] by **Jamie Brandon** (2018)
 
 #### Lisp
 * [Lisp](https://www.youtube.com/watch?v=FRaNUsiD_BA) [00:56:00] by **Igor Wiedler** (2014)
@@ -719,7 +720,8 @@ ever.
 
 #### Security
 * [Breaking The x86 Instruction Set](https://www.youtube.com/watch?v=KrksBdWcZgQ) [00:44:28] by **Christoper Domas** (2017)
-* [Boot strapping slightly more secure systems](https://media.ccc.de/v/33c3-8314-bootstraping_a_slightly_more_secure_laptop/oembed) [00:47:43] by **Trammell Hudson**
+* [Boot strapping slightly more secure systems](https://media.ccc.de/v/33c3-8314-bootstraping_a_slightly_more_secure_laptop/oembed) [00:47:43] by **Trammell Hudson** (2016)
+* [Q: Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible? A: Because Keynote Speakers Make Bad Life Decisions and Are Poor Role Models](https://www.youtube.com/watch?v=ajGX7odA87k) [00:51:21] by **James Mickens** (2018)
 
 #### Compilers/Interpreters
 * [Parsing with Derivatives](https://www.youtube.com/watch?v=ZzsK8Am6dKU) [01:13:10] by **Matthew Might** (2011)
